@@ -29,5 +29,6 @@ Simulates basic market data, allowing users to filter by ticker, view KPIs, and 
 
 ---
 
-## 📁 Folder Structure
-
+Built by:
+**Manreet Sohi**  
+📁 Portfolio: [www.manreetsohi.com](https://www.manreetsohi.com)
