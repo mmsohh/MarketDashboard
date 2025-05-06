@@ -56,7 +56,7 @@
             this.labelAvgPrice.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.labelAvgPrice.AutoSize = true;
             this.labelAvgPrice.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.labelAvgPrice.Location = new System.Drawing.Point(331, 9);
+            this.labelAvgPrice.Location = new System.Drawing.Point(281, 9);
             this.labelAvgPrice.Name = "labelAvgPrice";
             this.labelAvgPrice.Size = new System.Drawing.Size(153, 25);
             this.labelAvgPrice.TabIndex = 1;
